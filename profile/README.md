@@ -1,5 +1,5 @@
-# 2greys2crowbars
-an NRP ss14 server
+# frigid14
+A [space station 14](https://spacestation14.io) fork heavily inspired by [project zomboid](https://projectzomboid.com) and such other zombie games.
 
-## links
-[website](http://421034.xyz/) | [discord](https://discord.gg/n8se25bGCx)
+## Links
+[Website](http://421034.xyz/) | [Discord](https://discord.gg/n8se25bGCx)
